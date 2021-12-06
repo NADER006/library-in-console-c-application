@@ -1,0 +1,10 @@
+1,nader,thabit,cairo street,757575
+2,manaf,salih,alsteen street,123442
+3,ali,omer,hail streat,23451
+4,omer,hkaled,hail,65476
+5,mohammed,ali,cairo streat,7854
+6,ahmed,othman,cairo,45276
+7,malak,ali,hail,65432
+8,ola,khaleel,alsteen street,23452
+9,amany,sameer,cairo,45322
+10,marwa,alhady,alsteen street,23412

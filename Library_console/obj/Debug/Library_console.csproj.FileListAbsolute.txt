@@ -1,0 +1,16 @@
+C:\Users\نادر محمد\Desktop\تطبيقات c#\Library_console\Library_console\bin\Debug\Library_console.exe.config
+C:\Users\نادر محمد\Desktop\تطبيقات c#\Library_console\Library_console\bin\Debug\Library_console.exe
+C:\Users\نادر محمد\Desktop\تطبيقات c#\Library_console\Library_console\bin\Debug\Library_console.pdb
+C:\Users\نادر محمد\Desktop\تطبيقات c#\Library_console\Library_console\obj\Debug\Library_console.csprojResolveAssemblyReference.cache
+C:\Users\نادر محمد\Desktop\تطبيقات c#\Library_console\Library_console\obj\Debug\Library_console.exe
+C:\Users\نادر محمد\Desktop\تطبيقات c#\Library_console\Library_console\obj\Debug\Library_console.pdb
+C:\Users\نادر محمد\Desktop\تطبيقات c#\Library_console\Library_console\bin\Debug\LibraryData.mdf
+C:\Users\نادر محمد\Desktop\تطبيقات c#\Library_console\Library_console\bin\Debug\LibraryData_log.ldf
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project2 console application\Library_console\Library_console\bin\Debug\Library_console.exe.config
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project2 console application\Library_console\Library_console\obj\Debug\Library_console.exe
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project2 console application\Library_console\Library_console\obj\Debug\Library_console.pdb
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project2 console application\Library_console\Library_console\bin\Debug\LibraryData.mdf
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project2 console application\Library_console\Library_console\bin\Debug\LibraryData_log.ldf
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project2 console application\Library_console\Library_console\bin\Debug\Library_console.exe
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project2 console application\Library_console\Library_console\bin\Debug\Library_console.pdb
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project2 console application\Library_console\Library_console\obj\Debug\Library_console.csprojResolveAssemblyReference.cache
